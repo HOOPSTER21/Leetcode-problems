@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/1677-matrix-diagonal-sum) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2350-find-closest-number-to-zero](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/2350-find-closest-number-to-zero) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/2844-sum-of-squares-of-special-elements) |
