@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0216-combination-sum-iii) |
+| [0228-summary-ranges](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
