@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0216-combination-sum-iii) |
 | [0228-summary-ranges](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0228-summary-ranges) |
+| [0238-product-of-array-except-self](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -288,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0079-word-search) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
