@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0078-subsets) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0415-add-strings](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0415-add-strings) |
 | [0898-transpose-matrix](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0898-transpose-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0079-word-search) |
 | [0898-transpose-matrix](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/1677-matrix-diagonal-sum) |
