@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0056-merge-intervals) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0069-sqrtx) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0079-word-search) |
 | [0898-transpose-matrix](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0898-transpose-matrix) |
