@@ -6,12 +6,7 @@ class Solution {
             hs.add(val);
         }
 
-        for(int num:hs)
-        {
-            if(num==target)
-            return true;
-        }
-        return false;
+        return hs.contains(target);
         
     }
 }
