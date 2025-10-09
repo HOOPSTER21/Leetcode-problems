@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0216-combination-sum-iii) |
 | [0228-summary-ranges](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0191-number-of-1-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -309,4 +312,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
