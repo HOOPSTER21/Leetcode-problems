@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0056-merge-intervals) |
+| [0074-search-a-2d-matrix](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0079-word-search) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0079-word-search) |
 | [0898-transpose-matrix](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/1677-matrix-diagonal-sum) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0367-valid-perfect-square) |
