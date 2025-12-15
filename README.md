@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/abhisheksingh212/Leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/abhisheksingh212/Leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/1013-fibonacci-number) |
