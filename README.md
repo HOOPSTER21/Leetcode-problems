@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/abhisheksingh212/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/abhisheksingh212/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0191-number-of-1-bits) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/abhisheksingh212/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0139-word-break) |
